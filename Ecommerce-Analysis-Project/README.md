@@ -87,6 +87,12 @@ Created:
 
 ---
 
+## Dashboard Preview
+
+![Ecommerce Dashboard](ecommerce_report.jpg)
+
+---
+
 ## Author
 
 Vivek Sourav
